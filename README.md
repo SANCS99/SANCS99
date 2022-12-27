@@ -4,11 +4,11 @@
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
-- 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree.
+- 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Information Technology Degree.
 
 - 📚 I'm Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
 
-- 🌱 I’m currently learning React JS, Node JS and React Native.
+- 🌱 I’m currently learning PHP, Laravel and React Native.
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
