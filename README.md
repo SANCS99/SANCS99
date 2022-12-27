@@ -8,17 +8,18 @@
 
 - 📚 I'm Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
 
-- 🌱 I’m currently learning PHP, Laravel and React Native.
+- 🌱 I’m currently learning PHP, Laravel and JavaScript.
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
-- 📫 How to reach me:  malshagjayakody@gmail.com
+- 📫 How to reach me:  nipunchasakalasuriya@gmail.com
 
 
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+     <a href="https://www.php.com" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png](https://www.php.net//images/logos/new-php-logo.svg)"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
