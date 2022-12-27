@@ -4,6 +4,8 @@
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
+## 🙋‍♂️ About Me
+
 - 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Information Technology Degree.
 
 - 📚 I'm Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
