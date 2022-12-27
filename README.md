@@ -68,7 +68,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nipun-sakalasuriya-668669215/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "malshageethmi_00"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
