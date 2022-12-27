@@ -43,7 +43,7 @@
 
 <p align="center">
     <a href="https://github.com/SANCS99/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Malsha Jayakody's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SANCS99&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nipun Sakalasuriya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SANCS99&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 </br>
@@ -52,14 +52,14 @@
 <a href="#"><img width="25%" height="25%" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" height="175px"/></a>
 
 <br/>
- <a href="https://github.com/SANCS99/github-readme-stats"><img alt="Malsha Jayakody's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANCS99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/SANCS99/github-readme-stats"><img alt="Nipun Sakalasuriya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANCS99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
    
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
-<a href="https://github.com/SANCS99/github-readme-activity-graph"><img alt="Malsha Jayakody's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SANCS99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SANCS99/github-readme-activity-graph"><img alt="Nipun Sakalasuriya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SANCS99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -67,7 +67,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/malsha-jayakody-7a415b227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/nipun-sakalasuriya-668669215/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "malshageethmi_00"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
 ## ❤ Views and Followers
